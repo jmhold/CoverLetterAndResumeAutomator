@@ -1,7 +1,7 @@
 # Setup Instrustions
 
 1. Create a folder structure in GoogleDrive that works best for you. The script uses folder and document IDs, so the actual folder structure isn't important. Mine looks something like this:
-- Job Aps (root folder)
+- Job Apps (root folder)
     - templates
         - resume template files
         - cover letter template files
